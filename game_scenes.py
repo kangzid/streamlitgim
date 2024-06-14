@@ -7,7 +7,7 @@ import random
 
 ###############################################
 #
-#               intro scene to the level 
+#               intro scene to the level  
 #
 ################################################
 
